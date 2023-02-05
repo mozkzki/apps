@@ -35,4 +35,4 @@ Wi-Fi のある地域以外で本アプリを使用する場合、モバイル�
 
 **お問い合わせ**
 
-本規約についてご質問やご提案がありましたら、ご遠慮なく mozmoz@gmail.com までご連絡ください。
+本規約についてご質問やご提案がありましたら、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSepQJBkwSnQPbBcQKdCGvIZktRcX58DCmIBYO4iFGZ7CBPVfQ/viewform?usp=sf_link)からご連絡ください。
