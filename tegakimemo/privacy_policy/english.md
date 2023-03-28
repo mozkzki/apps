@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This page is the privacy policy of the smartphone application "Quick Memo" developed and operated by mozkzki. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using this application.
+This page is the privacy policy of the smartphone application "Quick Widget Memo" developed and operated by mozkzki. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using this application.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
