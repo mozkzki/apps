@@ -10,10 +10,10 @@
 
 本アプリは、利用規約を宣言している第三者のサービスを使用しています。
 
-本アプリが使用する第三者サービスプロバイダの利用規約へのリンク
+本アプリが使用する第三者サービスプロバイダ
 
-*   [AdMob](https://developers.google.com/admob/terms)
-*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+* Google AdMob
+* Google Analytics for Firebase
 
 当方が責任を負わないものがあることをご承知おきください。本アプリの一部の機能は、本アプリがアクティブなインターネット接続を持っていることを必要とします。接続は Wi-Fi またはモバイルネットワークプロバイダによって提供されますが、Wi-Fi にアクセスできず、データ容量が残っていない場合、本アプリがフル機能で動作しないことに対して当方は責任を負えません。
 

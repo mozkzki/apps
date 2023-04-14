@@ -10,8 +10,8 @@
 
 取得する情報等、詳細につきましては、下記第三者サービスプロバイダのプライバシーポリシーをご参照ください。
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=ja)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* Google AdMob
+* Google Analytics for Firebase
 
 また、本アプリのサポートにおいて、お客様のメールアドレス、お問い合わせ内容を収集する場合がございます。当方は、これらの情報をお問い合わせの返信や本アプリの品質向上のために利用いたします。
 

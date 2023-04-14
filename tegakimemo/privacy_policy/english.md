@@ -10,8 +10,8 @@ This app may use Google AdMob for ad delivery and Google Firebase Analytics for 
 
 Please refer to the privacy policy of the third party service provider below for details such as information to be acquired.
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* Google AdMob
+* Google Analytics for Firebase
 
 In addition, in the support of this application, we may collect your e-mail address and inquiry details. We will use this information to reply to inquiries and improve the quality of this application.
 
