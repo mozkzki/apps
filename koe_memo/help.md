@@ -10,11 +10,12 @@
 
 <details>
 <summary>ホーム画面への追加方法</summary>
-
+<p>
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
+</p>
 
 </details>
 
