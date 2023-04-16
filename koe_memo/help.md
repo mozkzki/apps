@@ -12,6 +12,8 @@
 <summary>ホーム画面への追加方法</summary>
 
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
+
+![test](images/test.png)
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
