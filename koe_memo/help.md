@@ -1,8 +1,10 @@
-# 声で即メモ - アプリの使い方
+## 声で即メモ
 
-## 初めにやること
+アプリの使い方
 
-### ウィジェットの追加
+### 初めにやること
+
+#### ウィジェットの追加
 
 ウィジェットとして追加することで、そこから素早く起動してメモをとれるようになります。
 
@@ -13,6 +15,7 @@
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
+
 </details>
 
 <details>
