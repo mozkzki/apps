@@ -8,7 +8,7 @@
 
 ウィジェットとして追加することで、そこから素早く起動してメモをとれるようになります。
 
-<details>
+<details markdown="1">
 <summary>ホーム画面への追加方法</summary>
 
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
