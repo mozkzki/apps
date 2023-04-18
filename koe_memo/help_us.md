@@ -13,7 +13,7 @@
 
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 
-![test](images/hogehoge.png)
+![test](images/add_home_1.png)
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
 1. aaaaaaaaaaaaaaaaaaaaaaaaa
