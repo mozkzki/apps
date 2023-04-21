@@ -36,10 +36,8 @@
 
 </details>
 
-<br>
-
 <details markdown="1">
-<summary>四角いメモをロック画面へ追加する方法 (iOS16のみ)</summary>
+<summary>ロック画面への追加方法 (四角メモ, iOS16)</summary>
 <br>
 
 - ロック画面を長押しします
