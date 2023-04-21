@@ -52,7 +52,7 @@ By adding memo as a widget, you can quickly launch the app from widget and take 
 
 ![add_l_r_3](images/us/add_lock_rect_3.png)
 
-- Tap the "Add Widget" section
+- Tap the "ADD WIDGETS" section
 
 ![add_l_r_4](images/us/add_lock_rect_4.png)
 
