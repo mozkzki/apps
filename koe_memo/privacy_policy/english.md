@@ -56,4 +56,4 @@ This policy is effective as of 2023-03-28
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, please contact us [here](https://docs.google.com/forms/d/e/1FAIpQLScJd7_nIN4ELQpVDDmk5pfQ7tOELnJKaeE7RlDOdW6eBMmfpQ/viewform?usp=sf_link).
+If you have any questions or suggestions about my Privacy Policy, Please contact us from the "Contact Us" menu in the app.
