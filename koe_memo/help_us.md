@@ -1,10 +1,8 @@
 ### How to use the "Voice Widget Memo"
 
-#### Things to do first
+#### Adding a widget
 
-##### Adding a widget
-
-By adding memo as a widget, you can quickly launch the app from widget and take notes.
+Memos can be added as widgets to the home screen or lock screen (iOS16 only) using the following method. Simply tap the added widget to start taking notes.
 
 <details markdown="1">
 <summary>How to add to the home screen</summary>
@@ -37,7 +35,7 @@ By adding memo as a widget, you can quickly launch the app from widget and take 
 </details>
 
 <details markdown="1">
-<summary>How to add to the lock screen (Rectangular memo, iOS16)</summary>
+<summary>How to add to the lock screen (Rectangular memo)</summary>
 <br>
 
 - Long-press the lock screen
@@ -88,7 +86,7 @@ By adding memo as a widget, you can quickly launch the app from widget and take 
 </details>
 
 <details markdown="1">
-<summary>How to add to the lock screen (Single line memo, iOS16)</summary>
+<summary>How to add to the lock screen (Single line memo)</summary>
 <br>
 
 - Long-press the lock screen
@@ -131,5 +129,55 @@ By adding memo as a widget, you can quickly launch the app from widget and take 
 - The app's note screen will be displayed
 
 ![add_l_l_10](images/us/add_lock_line_10.png)
+
+</details>
+
+#### Hands-Free Mode
+
+This is a mode for taking notes repeatedly by voice operation without touching the iPhone/iPad.
+
+##### Preparation for use
+
+First, you need to add the Siri shortcut for "Voice Widget Memo" by the following method.
+
+<details markdown="1">
+<summary>How to add Siri Shortcut</summary>
+<br>
+
+- Tap "Hands-Free Mode" in the app's settings menu
+
+![add_s_1](images/us/add_siri_1.png)
+
+- Tap "Add to Siri"
+
+![add_s_2](images/us/add_siri_2.png)
+
+- Set your favorite voice phrase and tap "Done" (Default is "Voice Memo")
+
+![add_s_3](images/us/add_siri_3.png)
+
+</details>
+
+##### How to Use
+
+<details markdown="1">
+<summary>Usage Flow</summary>
+* Device must be unlocked
+<br>
+<br>
+
+1. Say "Hey Siri, Voice Memo" to your iPhone/iPad (Match the second half with the voice phrase you set)
+2. The app will start in recording mode, so record what you want to make a note of
+3. Say "Finish" when you're done taking notes
+4. The recording ends and the app hides in the background
+5. If you want to make additional notes, repeat from step 1.
+
+</details>
+
+<details markdown="1">
+<summary>Tips</summary>
+
+- By default, the content recorded in Hands-Free Mode is saved in "Home Screen: Large", but you can change the recording destination in the app settings.
+- Voice command to end memo recording (default: "finish") can be changed in app settings
 
 </details>
