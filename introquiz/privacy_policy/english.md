@@ -12,8 +12,31 @@ Please refer to the privacy policy of the third party service provider below for
 
 * Google AdMob
 * Google Analytics for Firebase
+* Google Firebase (Authentication / Firestore / Realtime Database / Cloud Messaging / Crashlytics)
 
 In addition, in the support of this application, we may collect your e-mail address and inquiry details. We will use this information to reply to inquiries and improve the quality of this application.
+
+**Information Used by Online Features**
+
+When you use online features of this app such as remote battles, shared playlists, or the Follow feature, the following information is stored in Google Firebase (Firestore / Realtime Database / Authentication / Cloud Messaging / Crashlytics).
+
+* Nickname, avatar, favorite artists, gameplay stats
+* Follow / follower relationships, block list
+* Device identifier (FCM token), last active timestamp
+
+Among these, the following information is shown to other users only when you enable profile publication (the Follow feature):
+
+* Nickname, avatar, favorite artists
+* Follow count, follower count, follow list, follower list
+* Gameplay stats (only items intended for public display)
+
+You can turn off profile publication at any time. When turned off, you appear to other users as a "private user" and the above information is no longer shown.
+
+In addition, when a user who has enabled the Follow feature starts a follower battle, push notifications announcing the battle are sent (via Google Firebase Cloud Messaging) to the devices of other users who follow them. You can change whether you receive such push notifications at any time from the app's notification settings.
+
+When you use the block feature, the ID of the blocked user is stored on our server, and notifications and battle invitations from the blocked user are filtered out.
+
+When you use the reporting feature, the reporter ID, reported user ID, reason, free-text details, and timestamp are stored on our server, and a notification is sent to the operator's email. Report contents are used solely to verify compliance with these terms and to operate the app properly, and the reporter's identity is never disclosed to the reported user.
 
 **Log Data**
 
@@ -52,7 +75,7 @@ I do not knowingly collect personally identifiable information from children und
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-03-28
+This policy is effective as of 2026-05-29.
 
 **Contact Us**
 

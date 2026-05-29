@@ -38,11 +38,26 @@ The app offers some features as a paid subscription.
 * The subscription automatically renews unless cancelled at least 24 hours before the end of the current period.
 * You can manage and cancel your subscription in your device's Settings > Apple ID > Subscriptions.
 
+**Prohibited Conduct**
+
+You agree not to engage in any of the following while using the app:
+
+* Harassment, defamation, or threats against other users
+* Impersonation of another person, real or fictional
+* Use of inappropriate nicknames or avatars (including content that is against public order and morals, infringes on the rights of others, or contains obscene, violent, or discriminatory expressions)
+* Spam or other nuisance behavior
+* Interference with the operation of the app
+* Any conduct that violates laws or public order and morals
+
+If you encounter any of the above conduct by another user, you may report it to us via the in-app reporting feature (accessible from any other user's profile screen). We will review the report and respond within 24 hours.
+
+If we identify any conduct that violates these terms, we may suspend the account, remove content, restrict usage, or take other necessary measures without prior notice to the user concerned.
+
 **Changes to This Terms and Conditions**
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-05-18
+These terms and conditions are effective as of 2026-05-29
 
 **Contact Us**
 
