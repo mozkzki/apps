@@ -49,7 +49,7 @@ You agree not to engage in any of the following while using the app:
 * Interference with the operation of the app
 * Any conduct that violates laws or public order and morals
 
-If you encounter any of the above conduct by another user, you may report it to us via the in-app reporting feature (accessible from any other user's profile screen). We will review the report and respond within 24 hours.
+If you encounter any of the above conduct by another user, you may report it to us via the in-app reporting feature (accessible from any other user's profile screen). We will review the report and typically respond within 48 hours.
 
 If we identify any conduct that violates these terms, we may suspend the account, remove content, restrict usage, or take other necessary measures without prior notice to the user concerned.
 
@@ -57,7 +57,7 @@ If we identify any conduct that violates these terms, we may suspend the account
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-05-29
+These terms and conditions are effective as of 2026-05-30
 
 **Contact Us**
 
