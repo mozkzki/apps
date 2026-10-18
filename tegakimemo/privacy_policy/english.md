@@ -56,4 +56,4 @@ This policy is effective as of 2023-03-28
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, please contact us [here](https://docs.google.com/forms/d/e/1FAIpQLSfV_eOPGrD3dArMnnE3P2faVMuXxs2x-8xZtliHJrInnO8jHA/viewform).
+If you have any questions or suggestions about my Privacy Policy, please contact us [here](https://docs.google.com/forms/d/e/1FAIpQLScWxQyouR4sNaxKZf3cgYkYoqpmGaYpv7krxvfPQAyfz95wsg/viewform).
