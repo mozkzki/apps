@@ -56,4 +56,4 @@
 
 **お問い合わせ**
 
-本プライバシーポリシーについてご質問やご提案がありましたら、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSepQJBkwSnQPbBcQKdCGvIZktRcX58DCmIBYO4iFGZ7CBPVfQ/viewform?usp=sf_link)からご連絡ください。
+本プライバシーポリシーについてご質問やご提案がありましたら、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfV_eOPGrD3dArMnnE3P2faVMuXxs2x-8xZtliHJrInnO8jHA/viewform)からご連絡ください。
