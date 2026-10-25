@@ -8,7 +8,7 @@ If you choose to use the App, then you agree to the collection and use of inform
 
 The App uses Google AdMob for ad delivery. The advertising identifier is obtained only if you allow it through App Tracking Transparency. If you do not allow it, you can still use every feature of the App. The advertising identifier is not used to identify individuals.
 
-The App's rankings use Apple Game Center. If you take part in the rankings, your score and your Game Center nickname are shown to other players through Apple. You can use the App without signing in to Game Center.
+The App's rankings use Apple Game Center. If you take part in the rankings, your score, your Game Center nickname and details of that pour (the beer brand, rank, title, foam ratio, time taken and etiquette results) are shown to other players through Apple. You can use the App without signing in to Game Center.
 
 Please refer to the privacy policy of the third party service providers below for details such as information to be acquired.
 
@@ -22,10 +22,10 @@ In addition, in the support of the App, we may collect your e-mail address and i
 The App uses the following device features to play. This information is used only on your device, or between your device and one other device nearby. It is never sent to our servers (we do not run any servers).
 
 * Accelerometer and gyroscope (motion sensors): to judge how you tilt the device to pour or receive beer
-* Local network: when two people play, the App connects directly to one other device nearby. Your device name is shown on the other device
+* Local network: when two people play, the App connects directly to one other device nearby. The name you entered for your certificate (or your Game Center nickname, or your device name if neither is set) is shown on the other device
 * Nearby Interaction: when two people play, the App measures the distance between the two devices
 
-Your score, rank and title are calculated on your device. You choose whether to share the certificate image.
+Your score, rank and title are calculated on your device. Your Book of Titles (titles and records you have earned) and the name for your certificate are stored only on your device. You choose whether to share the certificate and other images.
 
 **Log Data**
 
@@ -62,7 +62,7 @@ The App is a game of pretending to pour beer. It does not encourage drinking. I 
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-10-25
+This policy is effective as of 2026-10-26
 
 **Contact Us**
 
