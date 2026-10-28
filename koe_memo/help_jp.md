@@ -2,7 +2,7 @@
 
 #### ウィジェットの追加
 
-メモは、以下の方法でホーム画面やロック画面(iOS16のみ)にウィジェットとして追加できます。追加したウィジェットをタップするだけでメモを開始できます。
+メモは、以下の方法でホーム画面やロック画面(iOS16以上)にウィジェットとして追加できます。追加したウィジェットをタップするだけでメモを開始できます。
 
 <details markdown="1">
 <summary>ホーム画面への追加方法</summary>
@@ -182,3 +182,110 @@ iPhone/iPadに触れずに音声操作で繰り返しメモするためのモー
 
 </details>
 
+#### Apple Watch から記録する
+
+Apple Watch に話しかけると、iPhone の「声で即メモ」の、選んだメモに追記されます。iPhone を取り出さずにメモを残せます(watchOS 11 以上)。
+
+##### 利用のための準備
+
+<details markdown="1">
+<summary>準備の手順</summary>
+<br>
+
+1. **Watch にアプリを入れます**: iPhone の Watch App →「声で即メモ」→「インストール」をタップします(App の自動インストールがオンなら、すでに入っています)
+2. **追記するメモを選びます**: 「声で即メモ」の設定 →「Apple Watch から追記するメモ」で、大・中・小・四角・1行から選びます(最初は「大」です)
+3. **文字盤に置きます(おすすめ)**: 文字盤を長押し →「編集」→ コンプリケーションの枠を選び、「声で即メモ」を選びます
+
+</details>
+
+##### 利用方法
+
+<details markdown="1">
+<summary>利用の流れ</summary>
+<br>
+
+1. 文字盤の「声で即メモ」をタップします。すぐに音声入力が始まります
+2. 話し終えたら「完了」をタップします。親指と人差し指のダブルタップでも押せます(Apple Watch Series 9 / Ultra 2 以降)
+3. 「〇〇に追記しました」と出たら完了です。続けて話すときは「話す」をタップするか、ダブルタップします
+
+文字盤に戻るときは、Digital Crown を押すか、手首を下ろします。
+
+</details>
+
+<details markdown="1">
+<summary>知っておくこと</summary>
+
+- **iPhone のウィジェットにすぐ出ないことがあります**: メモには追記されています。ウィジェットの書き換えは iOS が回数を調整するため、遅れることがあります。「声で即メモ」を開くと、すぐに反映されます
+- **iPhone で録音しているとき**: 「録音が止まったら追記します」と出ます。iPhone の録音が終わると追記されます
+- **iPhone が近くにないとき**: 「iPhone に届いたら追記します」と出ます。iPhone とつながったときに、話した順に追記されます
+- **iPhone に「Apple Watch キーボード」の通知が出ます**: Watch で文字の入力を始めたときに iOS が出す通知です。「声で即メモ」からは止められません
+- **Watch の Siri からは使えません**: Watch の Siri に話しかけると、Apple 純正の「メモ」が開きます。Watch では「声で即メモ」のアイコンから開いてください
+- **手首を下ろしたらすぐ文字盤に戻したいとき**: Watch の「設定」→「一般」→「時計に戻る」で、「声で即メモ」の戻るまでの時間を変えられます
+
+</details>
+
+#### よくある質問
+
+<details markdown="1">
+<summary>バックアップについて</summary>
+<br>
+
+メモのバックアップは、次のときに作られます(メモの内容が変わったときだけ)。
+
+- 保存ボタンを押したとき
+- 録音を止めたとき
+- アプリを閉じたとき(ホーム画面に戻ったとき)
+- Apple Watch から追記したとき
+
+![backup_save_button](images/jp/backup_save_button.png)
+
+##### バックアップの保存場所
+
+以下の2か所です。
+
+| 場所 | アプリ削除時 |
+|---|---|
+| ローカル | バックアップファイルも削除されます |
+| iCloud | バックアップファイルは削除されません |
+
+##### バックアップデータについて
+
+ローカル・iCloud とも、メモの種類ごとに最新の20件が保存されます(20件を超えた場合、古い方から削除されます)。ファイル名の末尾には日時が入ります。
+
+| メモの種類 | バックアップデータのファイル名(例) |
+|---|---|
+| ホーム画面用(大) | backup_large_20241220112233.txt |
+| ホーム画面用(中) | backup_medium_20241220112233.txt |
+| ホーム画面用(小) | backup_small_20241220112233.txt |
+| ロック画面用(四角) | backup_lockLarge_20241220112233.txt |
+| ロック画面用(1行) | backup_lockSmall_20241220112233.txt |
+
+##### バックアップの確認方法(ローカル)
+
+「声で即メモ」アプリ内に保存されます。アプリを削除した場合、バックアップファイルも削除されます。バックアップデータは、以下のように「ファイル」アプリから確認できます。
+
+![backup_files_app](images/jp/backup_files_app.png)
+
+![backup_local_1](images/jp/backup_local_1.png)
+
+![backup_local_2](images/jp/backup_local_2.png)
+
+![backup_local_3](images/jp/backup_local_3.png)
+
+##### バックアップの確認方法(iCloud)
+
+iCloud 内に保存されます。アプリを削除してもバックアップが残ります。バックアップデータは、以下のように「ファイル」アプリから確認できます。
+
+![backup_files_app](images/jp/backup_files_app.png)
+
+![backup_icloud_1](images/jp/backup_icloud_1.png)
+
+![backup_icloud_2](images/jp/backup_icloud_2.png)
+
+![backup_icloud_3](images/jp/backup_icloud_3.png)
+
+iCloud への保存がうまくいかない場合は、設定アプリで「声で即メモ」の iCloud 利用が有効になっているかご確認ください。
+
+![backup_icloud_setting](images/jp/backup_icloud_setting.png)
+
+</details>
