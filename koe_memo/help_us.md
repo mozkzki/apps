@@ -1,170 +1,174 @@
-### How to use the "Voice Widget Memo"
+---
+layout: koe_memo_help
+lang: en
+title: Voice Widget Memo
+subtitle: How to use
+toc:
+  - { id: widget, label: Widgets }
+  - { id: handsfree, label: Hands-Free }
+  - { id: watch, label: Apple Watch }
+  - { id: faq, label: FAQ }
+---
 
-#### Adding a widget
+## Adding a widget {#widget}
 
 Memos can be added as widgets to the home screen or lock screen (iOS16 or later) using the following method. Simply tap the added widget to start taking notes.
 
 <details markdown="1">
 <summary>How to add to the home screen</summary>
-<br>
 
-- Long-press the home screen
+1. Long-press the home screen
 
-![add_home_1](images/us/add_home_1.png)
+   ![add_home_1](images/us/add_home_1.png)
 
-- Tap the + button on the top left
+1. Tap the + button on the top left
 
-![add_home_2](images/us/add_home_2.png)
+   ![add_home_2](images/us/add_home_2.png)
 
-- Search for "Voice Widget Memo" and tap it
+1. Search for "Voice Widget Memo" and tap it
 
-![add_home_3](images/us/add_home_3.png)
+   ![add_home_3](images/us/add_home_3.png)
 
-- Swipe to choose your preferred size
+1. Swipe to choose your preferred size
 
-![add_home_4](images/us/add_home_4.png)
+   ![add_home_4](images/us/add_home_4.png)
 
-- Tap the blue confirmation button
+1. Tap the blue confirmation button
 
-![add_home_5](images/us/add_home_5.png)
+   ![add_home_5](images/us/add_home_5.png)
 
-- Tap the home screen to complete
+1. Tap the home screen to complete
 
-![add_home_6](images/us/add_home_6.png)
+   ![add_home_6](images/us/add_home_6.png)
 
 </details>
 
 <details markdown="1">
 <summary>How to add to the lock screen (Rectangular memo)</summary>
-<br>
 
-- Long-press the lock screen
+1. Long-press the lock screen
 
-![add_l_r_1](images/us/add_lock_rect_1.png)
+   ![add_l_r_1](images/us/add_lock_rect_1.png)
 
-- Tap "Customize"
+1. Tap "Customize"
 
-![add_l_r_2](images/us/add_lock_rect_2.png)
+   ![add_l_r_2](images/us/add_lock_rect_2.png)
 
-- Tap "Lock Screen"
+1. Tap "Lock Screen"
 
-![add_l_r_3](images/us/add_lock_rect_3.png)
+   ![add_l_r_3](images/us/add_lock_rect_3.png)
 
-- Tap the "ADD WIDGETS" section
+1. Tap the "ADD WIDGETS" section
 
-![add_l_r_4](images/us/add_lock_rect_4.png)
+   ![add_l_r_4](images/us/add_lock_rect_4.png)
 
-- Search for "Voice Widget Memo" and tap it
+1. Search for "Voice Widget Memo" and tap it
 
-![add_l_r_5](images/us/add_lock_rect_5.png)
+   ![add_l_r_5](images/us/add_lock_rect_5.png)
 
-- Tap the widget
+1. Tap the widget
 
-![add_l_r_6](images/us/add_lock_rect_6.png)
+   ![add_l_r_6](images/us/add_lock_rect_6.png)
 
-- Tap the lock screen to confirm
+1. Tap the lock screen to confirm
 
-![add_l_r_7](images/us/add_lock_rect_7.png)
+   ![add_l_r_7](images/us/add_lock_rect_7.png)
 
-- Tap "Done"
+1. Tap "Done"
 
-![add_l_r_8](images/us/add_lock_rect_8.png)
+   ![add_l_r_8](images/us/add_lock_rect_8.png)
 
-- Tap the lock screen
+1. Tap the lock screen
 
-![add_l_r_9](images/us/add_lock_rect_9.png)
+   ![add_l_r_9](images/us/add_lock_rect_9.png)
 
-- You have now completed adding memo
-- When you tap the lock screen widget,
+1. You have now completed adding memo
+1. When you tap the lock screen widget,
 
-![add_l_r_10](images/us/add_lock_rect_10.png)
+   ![add_l_r_10](images/us/add_lock_rect_10.png)
 
-- The app's note screen will be displayed
+1. The app's note screen will be displayed
 
-![add_l_r_11](images/us/add_lock_rect_11.png)
+   ![add_l_r_11](images/us/add_lock_rect_11.png)
 
 </details>
 
 <details markdown="1">
 <summary>How to add to the lock screen (Single line memo)</summary>
-<br>
 
-- Long-press the lock screen
+1. Long-press the lock screen
 
-![add_l_l_1](images/us/add_lock_line_1.png)
+   ![add_l_l_1](images/us/add_lock_line_1.png)
 
-- Tap "Customize"
+1. Tap "Customize"
 
-![add_l_l_2](images/us/add_lock_line_2.png)
+   ![add_l_l_2](images/us/add_lock_line_2.png)
 
-- Tap "Lock Screen"
+1. Tap "Lock Screen"
 
-![add_l_l_3](images/us/add_lock_line_3.png)
+   ![add_l_l_3](images/us/add_lock_line_3.png)
 
-- Tap the part where the date and time are displayed
+1. Tap the part where the date and time are displayed
 
-![add_l_l_4](images/us/add_lock_line_4.png)
+   ![add_l_l_4](images/us/add_lock_line_4.png)
 
-- Search for "Voice Widget Memo" and tap it
+1. Search for "Voice Widget Memo" and tap it
 
-![add_l_l_5](images/us/add_lock_line_5.png)
+   ![add_l_l_5](images/us/add_lock_line_5.png)
 
-- Tap the lock screen to confirm
+1. Tap the lock screen to confirm
 
-![add_l_l_6](images/us/add_lock_line_6.png)
+   ![add_l_l_6](images/us/add_lock_line_6.png)
 
-- Tap "Done"
+1. Tap "Done"
 
-![add_l_l_7](images/us/add_lock_line_7.png)
+   ![add_l_l_7](images/us/add_lock_line_7.png)
 
-- Tap the lock screen
+1. Tap the lock screen
 
-![add_l_l_8](images/us/add_lock_line_8.png)
+   ![add_l_l_8](images/us/add_lock_line_8.png)
 
-- You have now completed adding memo
-- When you tap the lock screen widget,
+1. You have now completed adding memo
+1. When you tap the lock screen widget,
 
-![add_l_l_9](images/us/add_lock_line_9.png)
+   ![add_l_l_9](images/us/add_lock_line_9.png)
 
-- The app's note screen will be displayed
+1. The app's note screen will be displayed
 
-![add_l_l_10](images/us/add_lock_line_10.png)
+   ![add_l_l_10](images/us/add_lock_line_10.png)
 
 </details>
 
-#### Hands-Free Mode
+## Hands-Free Mode {#handsfree}
 
 This is a mode for taking notes repeatedly by voice operation without touching the iPhone/iPad.
 
-##### Preparation for use
+### Preparation for use
 
 First, you need to add the Siri shortcut for "Voice Widget Memo" by the following method.
 
 <details markdown="1">
 <summary>How to add Siri Shortcut</summary>
-<br>
 
-- Tap "Hands-Free Mode" in the app's settings menu
+1. Tap "Hands-Free Mode" in the app's settings menu
 
-![add_s_1](images/us/add_siri_1.png)
+   ![add_s_1](images/us/add_siri_1.png)
 
-- Tap "Add to Siri"
+1. Tap "Add to Siri"
 
-![add_s_2](images/us/add_siri_2.png)
+   ![add_s_2](images/us/add_siri_2.png)
 
-- Set your favorite voice phrase and tap "Done" (Default is "Voice Memo")
+1. Set your favorite voice phrase and tap "Done" (Default is "Voice Memo")
 
-![add_s_3](images/us/add_siri_3.png)
+   ![add_s_3](images/us/add_siri_3.png)
 
 </details>
 
-##### How to Use
+### How to Use
 
 <details markdown="1">
 <summary>Usage Flow</summary>
 * Device must be unlocked
-<br>
-<br>
 
 1. Say "Hey Siri, Voice Memo" to your iPhone/iPad (Match the second half with the voice phrase you set)
 2. The app will start in recording mode, so record what you want to make a note of
@@ -182,15 +186,14 @@ First, you need to add the Siri shortcut for "Voice Widget Memo" by the followin
 
 </details>
 
-#### Recording from Apple Watch
+## Recording from Apple Watch {#watch}
 
 Speak to your Apple Watch, and the text is added to the memo you chose in "Voice Widget Memo" on your iPhone. You can take notes without taking out your iPhone (watchOS 11 or later).
 
-##### Preparation for use
+### Preparation for use
 
 <details markdown="1">
 <summary>Setup steps</summary>
-<br>
 
 1. **Install the app on your Apple Watch**: On your iPhone, open the Watch app → "Voice Widget Memo" → tap "Install" (if automatic app install is on, it is already installed)
 2. **Choose the memo to add to**: In "Voice Widget Memo" Settings → "Memo for Apple Watch", choose "Home Screen: Large", "Home Screen: Medium", "Home Screen: Small", "Lock Screen: Square", or "Lock Screen: 1 Line" (the default is "Home Screen: Large")
@@ -198,11 +201,10 @@ Speak to your Apple Watch, and the text is added to the memo you chose in "Voice
 
 </details>
 
-##### How to Use
+### How to Use
 
 <details markdown="1">
 <summary>Usage Flow</summary>
-<br>
 
 1. Tap "Voice Widget Memo" on your watch face. Dictation starts right away
 2. When you finish speaking, tap "Done". You can also double tap with your thumb and index finger (Apple Watch Series 9 / Ultra 2 or later)
@@ -224,11 +226,10 @@ To return to the watch face, press the Digital Crown or lower your wrist.
 
 </details>
 
-#### FAQ
+## FAQ {#faq}
 
 <details markdown="1">
 <summary>About backups</summary>
-<br>
 
 A backup of a memo is created at the following times (only when the memo has changed):
 
@@ -239,7 +240,7 @@ A backup of a memo is created at the following times (only when the memo has cha
 
 ![backup_save_button](images/us/backup_save_button.png)
 
-##### Where backups are saved
+### Where backups are saved
 
 Backups are saved in two places.
 
@@ -248,7 +249,7 @@ Backups are saved in two places.
 | Local | Backup files are also deleted |
 | iCloud | Backup files are not deleted |
 
-##### About backup data
+### About backup data
 
 For both local and iCloud, the latest 20 backups are kept for each type of memo (when there are more than 20, the oldest ones are deleted). The file name ends with the date and time.
 
@@ -260,11 +261,11 @@ For both local and iCloud, the latest 20 backups are kept for each type of memo 
 | Lock Screen: Square | backup_lockLarge_20241220112233.txt |
 | Lock Screen: 1 Line | backup_lockSmall_20241220112233.txt |
 
-##### How to check backups (local)
+### How to check backups (local)
 
 Backups are saved inside the "Voice Widget Memo" app. If you delete the app, the backup files are also deleted. Open the "Files" app → "On My iPhone" → "KoeMemo" to see them.
 
-##### How to check backups (iCloud)
+### How to check backups (iCloud)
 
 Backups are saved in iCloud and remain even if you delete the app. Open the "Files" app → "iCloud Drive" → "KoeMemo" to see them.
 
