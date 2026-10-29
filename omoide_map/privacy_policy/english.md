@@ -15,7 +15,8 @@ This app does not display advertisements and does not use any analytics services
 Information processed locally on your device:
 
 * **Photo Data**: Photos you select to attach to events are copied and stored within the app. EXIF data (capture date, GPS coordinates) is read for auto-fill purposes, but this information is never sent outside your device.
-* **Location Data**: Used to display event locations on a map. Location data is processed only on your device.
+* **Camera Roll Analysis (Memory Suggestions)**: Only when you tap "See suggestions", the app reads the capture date, location and image of photos in your camera roll, within the access you have granted. It groups them by date and place to suggest memories. Finding similar photos and judging photo quality are done entirely on your device, and neither your photos nor the results are sent outside your device. Only the photos you register from a suggestion are copied into the app.
+* **Location Data**: Used to display event locations on a map. To show addresses and place names, the coordinates are sent to Apple's location services. Your photos and personally identifiable information are not sent.
 * **Face Detection Data**: Faces are detected in photos for associating with family members. All face detection processing is performed on-device and is never transmitted externally.
 * **Family Member Information**: Names, birth dates, and face thumbnails of family members you register are stored only on your device.
 
