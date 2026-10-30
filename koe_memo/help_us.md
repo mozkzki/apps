@@ -181,7 +181,7 @@ First, you need to add the Siri shortcut for "Voice Widget Memo" by the followin
 <details markdown="1">
 <summary>Tips</summary>
 
-- By default, the content recorded in Hands-Free Mode is saved in "Home Screen: Large", but you can change the recording destination in the app settings.
+- By default, the content recorded in Hands-Free Mode is saved in "Large", but you can change the recording destination in the app settings.
 - Voice command to end memo recording (default: "finish") can be changed in app settings
 
 </details>
@@ -196,7 +196,7 @@ Speak to your Apple Watch, and the text is added to the memo you chose in "Voice
 <summary>Setup steps</summary>
 
 1. **Install the app on your Apple Watch**: On your iPhone, open the Watch app → "Voice Widget Memo" → tap "Install" (if automatic app install is on, it is already installed)
-2. **Choose the memo to add to**: In "Voice Widget Memo" Settings → "Memo for Apple Watch", choose "Home Screen: Large", "Home Screen: Medium", "Home Screen: Small", "Lock Screen: Square", or "Lock Screen: 1 Line" (the default is "Home Screen: Large")
+2. **Choose the memo to add to**: In "Voice Widget Memo" Settings → "Memo for Apple Watch", choose "Large", "Medium", "Small", "Square", or "1 Line" (the default is "Large". "Square" and "1 Line" are the Lock Screen memos)
 3. **Add it to your watch face (recommended)**: Touch and hold the watch face → "Edit" → select a complication slot and choose "Voice Widget Memo"
 
 </details>
