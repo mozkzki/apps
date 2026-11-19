@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This page is the privacy policy of the smartphone application "OmoideMap" (also known as "おもいでマップ") developed and operated by mozkzki. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using this application.
+This page is the privacy policy of the smartphone application "OmoideMap" (also known as "おもいでマップ") developed and operated by mozksoft. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using this application.
 
 If you choose to use this app, then you agree to the collection and use of information in relation to this policy.
 

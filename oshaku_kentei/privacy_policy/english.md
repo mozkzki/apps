@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This page is the privacy policy of the smartphone application "Oshaku Kentei" (the "App") developed and operated by mozkzki. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using the App.
+This page is the privacy policy of the smartphone application "Oshaku Kentei" (the "App") developed and operated by mozksoft. It is intended to inform you of the policy regarding the collection, use and disclosure of user information when using the App.
 
 If you choose to use the App, then you agree to the collection and use of information in relation to this policy. I will not use or share your information with anyone except as described in this Privacy Policy.
 
