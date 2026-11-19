@@ -40,4 +40,4 @@
 
 本規約についてご質問やご提案がありましたら、App Store の本アプリページまたは下記メールアドレスよりご連絡ください。
 
-連絡先: mozkzki@gmail.com
+連絡先: mozksoft@gmail.com
